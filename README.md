@@ -2,9 +2,10 @@
 
 ## DG Additional
 
--   https://phaser.io/tutorials/getting-started-phaser3/part5
--   Using `http-server` and running `http-server ./src` from the root of the project
--   `Webroot` is `./src`
+-   Turorial - https://phaser.io/tutorials/getting-started-phaser3/part5
+-   Download https://gist.githubusercontent.com/photonstorm/46cb8fb4b19fc7717dcad514cdcec064/raw/4d258d6d68ca722360fb290513e6455224d58e1a/phaser3-example.html `index.html` file and put it in `./src` folder
+-   Using `http-server` (https://www.npmjs.com/package/http-server) and running `http-server ./src` from the root of the project
+-   Note: `Webroot` is `./src`
 
 ![Phaser Header](https://phaser.io/images/github/300/phaser-header.png "Phaser 3 Header Banner")
 
